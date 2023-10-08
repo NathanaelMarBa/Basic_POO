@@ -1,0 +1,8 @@
+D:\Poo\C#\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\Poo\C#\Abstract\Abstract\bin\Debug\Abstract.exe
+D:\Poo\C#\Abstract\Abstract\bin\Debug\Abstract.pdb
+D:\Poo\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+D:\Poo\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\Poo\C#\Abstract\Abstract\obj\Debug\Abstract.pdb

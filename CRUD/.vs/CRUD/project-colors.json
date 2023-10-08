@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30ed3501-4720-4ca4-add7-a7f3379523e7": {
+      "ProjectGuid": "30ed3501-4720-4ca4-add7-a7f3379523e7",
+      "DisplayName": "CRUD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

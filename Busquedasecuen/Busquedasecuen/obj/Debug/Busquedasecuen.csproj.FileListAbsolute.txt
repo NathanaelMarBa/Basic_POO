@@ -1,0 +1,8 @@
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\bin\Debug\Busquedasecuen.exe.config
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\bin\Debug\Busquedasecuen.exe
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\bin\Debug\Busquedasecuen.pdb
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\obj\Debug\Busquedasecuen.csproj.AssemblyReference.cache
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\obj\Debug\Busquedasecuen.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\obj\Debug\Busquedasecuen.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\obj\Debug\Busquedasecuen.exe
+D:\Poo\C#\Busquedasecuen\Busquedasecuen\obj\Debug\Busquedasecuen.pdb

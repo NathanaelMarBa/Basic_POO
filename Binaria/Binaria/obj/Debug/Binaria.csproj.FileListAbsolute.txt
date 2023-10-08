@@ -1,0 +1,8 @@
+D:\Poo\C#\Binaria\Binaria\bin\Debug\Binaria.exe.config
+D:\Poo\C#\Binaria\Binaria\bin\Debug\Binaria.exe
+D:\Poo\C#\Binaria\Binaria\bin\Debug\Binaria.pdb
+D:\Poo\C#\Binaria\Binaria\obj\Debug\Binaria.csproj.AssemblyReference.cache
+D:\Poo\C#\Binaria\Binaria\obj\Debug\Binaria.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Binaria\Binaria\obj\Debug\Binaria.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Binaria\Binaria\obj\Debug\Binaria.exe
+D:\Poo\C#\Binaria\Binaria\obj\Debug\Binaria.pdb

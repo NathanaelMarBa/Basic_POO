@@ -1,0 +1,8 @@
+D:\Poo\C#\Grafos\Grafos\bin\Debug\Grafos.exe.config
+D:\Poo\C#\Grafos\Grafos\bin\Debug\Grafos.exe
+D:\Poo\C#\Grafos\Grafos\bin\Debug\Grafos.pdb
+D:\Poo\C#\Grafos\Grafos\obj\Debug\Grafos.csproj.AssemblyReference.cache
+D:\Poo\C#\Grafos\Grafos\obj\Debug\Grafos.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Grafos\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Grafos\Grafos\obj\Debug\Grafos.exe
+D:\Poo\C#\Grafos\Grafos\obj\Debug\Grafos.pdb

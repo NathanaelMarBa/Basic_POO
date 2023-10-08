@@ -1,0 +1,8 @@
+D:\Poo\C#\Polimorfism0\Polimorfism0\bin\Debug\Polimorfism0.exe.config
+D:\Poo\C#\Polimorfism0\Polimorfism0\bin\Debug\Polimorfism0.exe
+D:\Poo\C#\Polimorfism0\Polimorfism0\bin\Debug\Polimorfism0.pdb
+D:\Poo\C#\Polimorfism0\Polimorfism0\obj\Debug\Polimorfism0.csproj.AssemblyReference.cache
+D:\Poo\C#\Polimorfism0\Polimorfism0\obj\Debug\Polimorfism0.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Polimorfism0\Polimorfism0\obj\Debug\Polimorfism0.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Polimorfism0\Polimorfism0\obj\Debug\Polimorfism0.exe
+D:\Poo\C#\Polimorfism0\Polimorfism0\obj\Debug\Polimorfism0.pdb

@@ -1,0 +1,8 @@
+D:\Poo\C#\Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\Poo\C#\Herencia\Herencia\bin\Debug\Herencia.exe
+D:\Poo\C#\Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\Poo\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+D:\Poo\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Herencia\Herencia\obj\Debug\Herencia.exe
+D:\Poo\C#\Herencia\Herencia\obj\Debug\Herencia.pdb

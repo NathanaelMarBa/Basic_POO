@@ -1,0 +1,15 @@
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\Animales.exe
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\Animales.deps.json
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\Animales.runtimeconfig.json
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\Animales.dll
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\ref\Animales.dll
+D:\Poo\C#\Animales\Animales\bin\Debug\net6.0\Animales.pdb
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.dll
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\ref\Animales.dll
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.pdb
+D:\Poo\C#\Animales\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache

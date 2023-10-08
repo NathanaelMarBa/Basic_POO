@@ -1,0 +1,16 @@
+D:\Poo\C#\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\Poo\C#\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\Poo\C#\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\Poo\C#\CRUD\CRUD\bin\Debug\EntityFramework.dll
+D:\Poo\C#\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Poo\C#\CRUD\CRUD\bin\Debug\EntityFramework.xml
+D:\Poo\C#\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\Poo\C#\CRUD\CRUD\obj\Debug\CRUD.pdb

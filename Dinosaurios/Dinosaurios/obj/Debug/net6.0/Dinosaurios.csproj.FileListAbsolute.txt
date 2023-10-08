@@ -1,0 +1,15 @@
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\Dinosaurios.exe
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\Dinosaurios.deps.json
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\Dinosaurios.runtimeconfig.json
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\Dinosaurios.dll
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\ref\Dinosaurios.dll
+D:\Poo\C#\Dinosaurios\Dinosaurios\bin\Debug\net6.0\Dinosaurios.pdb
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.csproj.AssemblyReference.cache
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.AssemblyInfoInputs.cache
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.AssemblyInfo.cs
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.dll
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\ref\Dinosaurios.dll
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.pdb
+D:\Poo\C#\Dinosaurios\Dinosaurios\obj\Debug\net6.0\Dinosaurios.genruntimeconfig.cache

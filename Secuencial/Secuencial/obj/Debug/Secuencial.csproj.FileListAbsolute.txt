@@ -1,0 +1,8 @@
+D:\Poo\C#\Secuencial\Secuencial\bin\Debug\Secuencial.exe.config
+D:\Poo\C#\Secuencial\Secuencial\bin\Debug\Secuencial.exe
+D:\Poo\C#\Secuencial\Secuencial\bin\Debug\Secuencial.pdb
+D:\Poo\C#\Secuencial\Secuencial\obj\Debug\Secuencial.csproj.AssemblyReference.cache
+D:\Poo\C#\Secuencial\Secuencial\obj\Debug\Secuencial.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Secuencial\Secuencial\obj\Debug\Secuencial.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Secuencial\Secuencial\obj\Debug\Secuencial.exe
+D:\Poo\C#\Secuencial\Secuencial\obj\Debug\Secuencial.pdb

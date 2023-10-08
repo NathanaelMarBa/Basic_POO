@@ -1,0 +1,8 @@
+D:\Poo\C#\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Poo\C#\Interface\Interface\bin\Debug\Interface.exe
+D:\Poo\C#\Interface\Interface\bin\Debug\Interface.pdb
+D:\Poo\C#\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Poo\C#\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\Poo\C#\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Poo\C#\Interface\Interface\obj\Debug\Interface.exe
+D:\Poo\C#\Interface\Interface\obj\Debug\Interface.pdb
